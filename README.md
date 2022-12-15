@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dominikjagenbrein
+- 👋 Hi, I’m @dominikjagenbrein. I am a Product Owner at [Artichoke Biotech](https://github.com/Artichoke-Biotech)
 
-- 📫 If you want to contact me write me an [email](mailto:dominik.jagenbrein@artichoke.eu)
+- 📫 If you want to contact me feel free to write me an [email](mailto:dominik.jagenbrein@artichoke.eu)
 
 <!---
 dominikjagenbrein/dominikjagenbrein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
