@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dominikjagenbrein. I am a Scrum Master at [Artichoke Biotech](https://github.com/Artichoke-Biotech)
+- 👋 Hi, I’m @dominikjagenbrein. I am a Scrum Master.
 
-- 📫 If you want to contact me feel free to write me an [email](mailto:dominik.jagenbrein@artichoke.eu)
+- 📫 If you want to contact me feel free to write me a email.
 
 <!---
 dominikjagenbrein/dominikjagenbrein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
